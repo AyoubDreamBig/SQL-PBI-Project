@@ -1,4 +1,4 @@
-# SQl-PBI-Project
+# SQL-PowerBI-Project
 -----------------
 # Case Study: Enhancing Sales Reporting with SQL and Power BI
 This project aimed to transform the sales reporting process from static reports to dynamic Power BI dashboards. Initiated by Steven, the Sales Manager, the goal was to create interactive dashboards to better monitor internet sales.
